@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tori-xiaolan
-- 👀 I’m interested in learning coding
-- 💞️ I’m looking to collaborate on anything
+
 
 <!---
 tori-xiaolan/tori-xiaolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
